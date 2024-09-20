@@ -1,0 +1,47 @@
+.info{
+    width: 90%;
+    display: block;
+    margin: auto;
+}
+.info #info{
+    width: 100%;
+    display: flex;
+    padding: 10px;
+    flex-wrap: wrap;
+    margin: auto;
+}
+#info div{
+    width: 30%;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+}
+#info div img{
+    border-radius: 25px;
+  
+    box-shadow: 2px 2px 2px 2px gray;
+    width: 400px;
+    height: 600px;
+}
+#info div img:hover{
+    transition: 1s ease-in-out;
+    transform: scale(1.1);
+}
+#coc{
+    width: 30%;
+    margin: auto;
+}
+#coc p{
+    font-size: 35px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-bottom: 2px solid black;
+    border-radius: 25px;
+   
+    cursor: pointer;
+}
+#coc p:hover{
+    background-color: #ddd;
+    border-bottom: 2px solid red;
+
+}

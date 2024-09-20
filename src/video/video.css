@@ -1,0 +1,36 @@
+.video{
+   width: 100%;
+   background-color: #ddd;
+   padding-top: 30px;
+   padding-bottom: 30px;
+   display: block;
+   margin: auto;
+   margin-bottom: 30px;
+}
+.video #video{
+   display: flex;
+   flex-wrap: wrap;
+   margin: auto;
+   width: 90%;
+}
+#video div p{
+    font-size: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 15px;
+    cursor: pointer;
+    width: 25%;
+    margin: auto;
+}
+#video div p:hover{
+    background-color: #ddd;
+    border-radius: 25px;
+    border-bottom: 2px solid black;
+
+}
+#video div{
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+}

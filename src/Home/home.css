@@ -1,0 +1,53 @@
+.content{
+    width: 90%;
+    padding: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    margin-bottom: 15px;
+   
+    
+}
+.content img{
+    width: 80%;
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px 2px grey;
+    height: 50%;
+}
+.content #diamond{
+    width: 70%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: auto;
+    display: block;
+}
+.content #name{
+    width: 30%;
+    margin: auto;
+    display: block;
+}
+#name h2{
+    font-size: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+}
+#name h1{
+    font-size: 60px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+}
+#name button{
+    padding: 5px;
+    border-radius: 25px;
+    padding: 10px;
+    font-size: 15px;
+    cursor: pointer;
+    background-color: #ddd;
+    border-bottom: 2px solid red;
+}
+#name button:hover{
+    cursor: pointer;
+    background-color: white;
+    border-bottom: 2px solid black;
+    border-top: 2px solid red;
+}

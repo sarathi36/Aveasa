@@ -1,0 +1,64 @@
+.collection{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+.collection #collection{
+    width: 20%;
+    padding: 10px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+#collection img{
+    width:300px;
+    margin-right: 2px solid grey;
+    margin-bottom: 20px;
+    height: 300px;
+
+}
+#collection img:hover{
+    transition: 1s ease-in-out;
+    transform: scale(1.1);
+}
+#collection #dname{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: auto;
+    width: 100%;
+}
+#coll li{
+    font-size: 25px;
+    color: black;
+   
+    list-style-type: none;
+    padding: 15px;
+    
+}
+#coll a{
+    text-decoration: none;
+    color: black;
+    padding: 10px;  
+}
+#more{
+    margin-bottom: 50px;
+}
+#more li{
+    text-decoration: none;
+    color: black;
+    list-style-type: none;
+}
+#more a{
+    text-decoration: none;
+}
+#banner {
+    background-color: #ddd;
+}
+#banner h1{
+    font-size: 45px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    color: black;
+    
+}

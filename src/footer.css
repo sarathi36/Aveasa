@@ -1,0 +1,48 @@
+.footer{
+    margin-top: 50px;
+    width: 100%;
+    background-color: #ddd;
+    margin: auto;
+    display: block;
+    flex-wrap: wrap;
+}
+.footer div{
+    cursor: pointer;
+    width: 30%;
+    margin: auto;
+}
+.footer div p{
+    border-bottom: 2px solid red;
+    padding: 10px;
+    border-radius: 25px;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.footer div p:hover{
+    border-bottom: 2px solid black;
+    color: red;
+
+}
+#footer{
+    padding: 15px;
+    width: 60%;
+    
+    
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+#footer div{
+    width: 20%;
+    margin: auto;
+}
+#footer img{
+    margin-right: 20px;
+    border-radius: 50px;
+    height: 50px;
+    width: 50px;
+}
+#footer img:hover{
+    border-bottom: 2px solid black;
+    border-radius: 0%;
+}

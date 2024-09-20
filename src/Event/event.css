@@ -1,0 +1,30 @@
+.event{
+    width: 100%;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    background-color: #ddd;
+   
+}
+img{
+    cursor: pointer;
+}
+#event{
+    background-size: cover;
+    width: 25%;
+    margin: auto;
+}
+#event img{
+    width: 400px;
+    
+    border-radius: 25px;
+    box-shadow: 2px 2px 2px 2px grey;
+    height: 600px;
+
+}
+#event img:hover{
+    transition: 1s ease-in-out;
+    transform: scale(1.1);
+}
