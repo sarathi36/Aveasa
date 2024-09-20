@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Aveasa/static/css/main.816f7935.css",
-    "main.js": "/Aveasa/static/js/main.e5d3ac6c.js",
+    "main.js": "/Aveasa/static/js/main.c9c61ab1.js",
     "static/js/453.cdb3f64e.chunk.js": "/Aveasa/static/js/453.cdb3f64e.chunk.js",
     "static/media/animegirl.jpg": "/Aveasa/static/media/animegirl.5c87f60b9b5c4360b284.jpg",
     "static/media/e3.jpg": "/Aveasa/static/media/e3.fe7f863c8500fff60d60.jpg",
@@ -35,11 +35,11 @@
     "static/media/envelope-regular.svg": "/Aveasa/static/media/envelope-regular.8e36928d9b48bb5ad84bc6cffbf69b40.svg",
     "static/media/facebook-brands-solid.svg": "/Aveasa/static/media/facebook-brands-solid.581116911c840c156a7bd5b13a3f7a20.svg",
     "main.816f7935.css.map": "/Aveasa/static/css/main.816f7935.css.map",
-    "main.e5d3ac6c.js.map": "/Aveasa/static/js/main.e5d3ac6c.js.map",
+    "main.c9c61ab1.js.map": "/Aveasa/static/js/main.c9c61ab1.js.map",
     "453.cdb3f64e.chunk.js.map": "/Aveasa/static/js/453.cdb3f64e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.816f7935.css",
-    "static/js/main.e5d3ac6c.js"
+    "static/js/main.c9c61ab1.js"
   ]
 }
